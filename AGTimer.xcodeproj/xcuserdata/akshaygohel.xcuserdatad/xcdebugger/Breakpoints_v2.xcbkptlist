@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5929360E-7655-4C40-BDB6-5AED9DFA9C75"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C86ADE1-D37A-4757-8245-21AFD928CD8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGAppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "scheduleBackgroundTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C86ADE1-D37A-4757-8245-21AFD928CD8C - 8a825dc9c156609d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.scheduleBackgroundTask() -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "8C86ADE1-D37A-4757-8245-21AFD928CD8C - 8a825dc9c156615f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.scheduleBackgroundTask() -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "256A99EC-8538-4CC2-B9FC-17CDA763AF5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGAppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "applicationDidEnterBackground(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "256A99EC-8538-4CC2-B9FC-17CDA763AF5B - 89079b2d40ed8963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.applicationDidEnterBackground(__C.UIApplication) -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "256A99EC-8538-4CC2-B9FC-17CDA763AF5B - 89079b2d40ed8925"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.applicationDidEnterBackground(__C.UIApplication) -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "505A5536-FA91-4B07-9C3F-88381F459951"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGAppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "505A5536-FA91-4B07-9C3F-88381F459951 - c496ce5171e6e52a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "505A5536-FA91-4B07-9C3F-88381F459951 - c496ce5171e6e568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "505A5536-FA91-4B07-9C3F-88381F459951 - b9e17cadb7516aaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.BGTask) -&gt; () in AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B8C7F3C-2F24-479D-B362-67B5D51D44E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGAppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "handleTimerCompletionTask(task:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B8C7F3C-2F24-479D-B362-67B5D51D44E2 - 4f35fa8c161046fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.handleTimerCompletionTask(task: __C.BGTask) -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6B8C7F3C-2F24-479D-B362-67B5D51D44E2 - 4f35fa8c16104140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.handleTimerCompletionTask(task: __C.BGTask) -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "535C72E3-491D-4436-BE34-92DEE82096A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGAppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "535C72E3-491D-4436-BE34-92DEE82096A3 - c496ce5171e6e52a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "535C72E3-491D-4436-BE34-92DEE82096A3 - b9e17cadb7516b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.BGTask) -&gt; () in AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "535C72E3-491D-4436-BE34-92DEE82096A3 - b9e17cadb7516aaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.BGTask) -&gt; () in AGTimer.AGAppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGAppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA08DE86-6771-4AA0-ABBF-79467EF244E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGTimerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "startPauseTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA08DE86-6771-4AA0-ABBF-79467EF244E2 - 20e9cdc6468b83e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGTimerViewModel.startPauseTimer() -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGTimerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "CA08DE86-6771-4AA0-ABBF-79467EF244E2 - 20e9cdc6468b83e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGTimerViewModel.startPauseTimer() -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGTimerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CA08DE86-6771-4AA0-ABBF-79467EF244E2 - 20e9cdc6468b806d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGTimer.AGTimerViewModel.startPauseTimer() -&gt; ()"
+                  moduleName = "AGTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/MyNextDeveloper/Code.nosync/AGTimer/AGTimer/AGTimerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A76693E4-1E83-4BE2-8E7F-F75CF60A9FF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGTimerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "startTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7829A128-08D2-4F03-A353-E4DF67829574"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGTimer/AGTimerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "stopTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
